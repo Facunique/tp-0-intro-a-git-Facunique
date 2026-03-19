@@ -30,7 +30,7 @@ def glosario_inicial():
         print(f"-> {termino}: {definicion}")
 
 
-def agregar_definicion_alumno():
+def agregar_definicion_Facu():
     """
     EJEMPLO: El alumno debe renombrar esta función y completar su término.
     """
@@ -44,4 +44,4 @@ if __name__ == "__main__":
     glosario_inicial()
 
     
-    agregar_definicion_alumno()
+    agregar_definicion_Facu()
