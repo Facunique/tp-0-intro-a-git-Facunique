@@ -30,7 +30,7 @@ def glosario_inicial():
         print(f"-> {termino}: {definicion}")
 
 
-def agregar_definicion_Facu():
+def agregar_definicion_Git():
     """
     EJEMPLO: El alumno debe renombrar esta función y completar su término.
     """
@@ -42,6 +42,5 @@ def agregar_definicion_Facu():
 if __name__ == "__main__":
     mostrar_bienvenida()
     glosario_inicial()
-
     
-    agregar_definicion_Facu()
+    agregar_definicion_Git()
